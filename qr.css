@@ -1,0 +1,26 @@
+* {
+    font-family: "poppins";
+}
+
+body {
+    background-color: lightgrey;
+}
+
+.container {
+    width: 30%;
+    min-height: 85vh;
+    margin: 0 auto;
+    background-color: hsl(0, 0%, 100%);
+}
+
+img {
+    width: 50%;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
